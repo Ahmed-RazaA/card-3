@@ -1,0 +1,92 @@
+.container{
+  height: 300px;
+  width: 730px;
+}
+.item{
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 100px;
+
+
+}
+.item2{
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: hsl(179, 62%, 43%);
+  height: 300px;
+
+}
+.item3{
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: cyan;
+  height: 300px;
+
+}
+
+.head1{
+  font-family: "Karla";
+  padding-top: 40px;
+  font-weight: 700;
+  line-height: 2;
+  color: hsl(179, 62%, 43%);
+}
+.head2{
+  font-family: "Karla";
+  font-weight: 700;
+  color: hsl(71, 73%, 54%);
+}
+.para{
+  font-family: "Karla";
+  font-weight: 400;
+  color: hsl(218, 22%, 67%);
+  margin-left: 0;
+  font-size: 16px;
+}
+.para1{
+  display:block;
+  font-family: "Karla";
+  margin-top: 30px;
+  margin-left: 0;
+  color: white;
+  font-size: 16px;
+}
+.para2{
+  font-family: "Karla";
+  display: block;
+  color: white;
+  margin-top: 30px;
+  font-size: 16px;
+}
+.p3{
+  text-align: center;
+  margin-left: 0;
+}
+h2{
+  margin-left: 10px;
+  color: white;
+  display: inline;
+}
+p{
+  color: hsl(218, 22%, 67%);
+  font-size: 16px;
+  display: inline;
+  margin-left: 10px;
+}
+
+body{
+  font-size: 16px;
+  background-color: #CDF0EA;
+}
+.butn{
+  text-align: center;
+
+}
+.sign-up{
+  background-color: hsl(71, 73%, 54%);
+  color:white;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 30px;
+
+}
